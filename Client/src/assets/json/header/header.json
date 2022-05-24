@@ -5,5 +5,6 @@
     {"name": "Demo|Add Location", "link":"add-loc", "order": 1},
     {"name": "Demo|QR Print GRN", "link":"qr-print-grn", "order": 1},
     {"name": "Demo|QR Print Location", "link":"qr-print-loc", "order": 1},
-    {"name": "Demo|Load GRN", "link":"load-grn", "order": 1}
+    {"name": "Demo|Load GRN", "link":"load-grn", "order": 1},
+    {"name": "Demo|Loaded GRN", "link":"loaded-grn", "order": 1}
 ]
